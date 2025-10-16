@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Shikandar295/Shikandar295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gopal Singh Tomer is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
